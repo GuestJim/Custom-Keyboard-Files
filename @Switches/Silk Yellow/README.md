@@ -6,7 +6,7 @@ Recordings of typing on NK65 - Entry Edition with Silk Yellow switches installed
 
 2020-08-22 recordings made with Drop Skylight Series (https://drop.com/buy/drop-skylight-series-keycap-set?mode=guest_open) keycaps installed
 
-2020-08-25 recordings made with YMDK Pudding (https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/gp/product/B08CB8D2YB/?tag=overclockersclub-20) keycaps intsalled
+2020-08-25 recordings made with YMDK Pudding (https://www.amazon.com/gp/product/B08CB8D2YB) keycaps intsalled
 
 2020-08-22 recording made using MXL 990 microphone placed as for recording commentary during gameplay. Audacity used to Amplify speech peak to -3 dB.
 
