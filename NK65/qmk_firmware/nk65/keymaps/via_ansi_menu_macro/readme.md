@@ -1,6 +1,3 @@
-The default keymap for NK65. VIA support disabled.
-=========================================================
+My keymap that with the Menu key on Layer 0 and Layer 2 configured with commands I use to capture screenshots and gameplay video 
 
-![Layout image](https://i.imgur.com/DL0CjJO.png)
-
-Default layer is normal ANSI 65%
+Should have VIA support enabled with rules.mk
