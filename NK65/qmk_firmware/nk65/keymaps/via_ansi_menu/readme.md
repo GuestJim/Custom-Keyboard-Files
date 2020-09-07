@@ -1,1 +1,3 @@
-My keymap that with the Menu key and should have VIA support enabled
+My keymap that with the Menu key on Layer 0
+
+Should have VIA support enabled with rules.mk
