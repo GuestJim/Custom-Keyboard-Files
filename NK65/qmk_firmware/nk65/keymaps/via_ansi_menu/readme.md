@@ -1,6 +1,1 @@
-The default keymap for NK65. VIA support disabled.
-=========================================================
-
-![Layout image](https://i.imgur.com/DL0CjJO.png)
-
-Default layer is normal ANSI 65%
+My keymap that with the Menu key and should have VIA support enabled
