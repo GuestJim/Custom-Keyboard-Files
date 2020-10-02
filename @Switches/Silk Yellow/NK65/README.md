@@ -13,3 +13,7 @@ Recordings of typing on NK65 - Entry Edition with Silk Yellow switches installed
 2020-08-25 Mic recording made using MXL 990 microphone placed as for recording commentary during gameplay. Audacity used to Amplify speech peak to -3 dB.
 
 2020-08-25 Headset recording made using Arctis 7 headset. Speech already peaked at 0 dB so Amplify was not applied.
+
+2020-10-01 Mic recording made using MXL 990 microphone placed as for recording commentary during gameplay. Audacity used to Amplify speech peak to -3 dB.
+
+2020-10-01 Headset recording made using Arctis 7 headset. Speech already peaked at 0 dB so Amplify was not applied.
