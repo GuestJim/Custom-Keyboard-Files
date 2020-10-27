@@ -4,6 +4,8 @@ https://novelkeys.xyz/collections/switches/products/the-silk-series?variant=3532
 
 Recordings of typing on NK65 - Entry Edition with Silk Yellow switches installed.
 
+Switches and NK65 - Entry Edition both provided by NovelKeys
+
 2020-08-22 recordings made with Drop Skylight Series (https://drop.com/buy/drop-skylight-series-keycap-set?mode=guest_open) keycaps installed
 
 2020-08-25 recordings made with YMDK Pudding (https://www.amazon.com/gp/product/B08CB8D2YB) keycaps intsalled
