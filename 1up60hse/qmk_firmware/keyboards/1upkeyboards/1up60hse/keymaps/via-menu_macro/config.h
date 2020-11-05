@@ -23,6 +23,9 @@ His article creating such custom keymap files:
 #pragma once
 
 // place overrides here
+#define TAPPING_TOGGLE 2
+//	changes the number of taps necessary for toggling such as with TT
+//		default is 5
 
 //	offsets the Knight Rider start point, so it does South row then North row
 #define RGBLIGHT_EFFECT_KNIGHT_OFFSET 11

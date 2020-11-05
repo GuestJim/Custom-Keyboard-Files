@@ -23,6 +23,10 @@ His article creating such custom keymap files:
 #pragma once
 
 // place overrides here
+#define TAPPING_TOGGLE 2
+//	changes the number of taps necessary for toggling such as with TT
+//		default is 5
+
 #undef RGBLIGHT_ANIMATIONS
 #define RGBLIGHT_EFFECT_ALTERNATING
 #define RGBLIGHT_EFFECT_BREATHING
