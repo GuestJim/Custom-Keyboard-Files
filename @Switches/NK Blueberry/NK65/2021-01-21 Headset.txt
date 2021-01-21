@@ -1,0 +1,23 @@
+===================================
+WCAG 2.0 Success Criteria 1.4.7 Contrast Results
+
+Filename = .
+
+Foreground
+Time started =  0 hour(s),  0 minute(s), 0.00 seconds.
+Time ended =  0 hour(s),  0 minute(s), 12.25 seconds.
+RMS = -24.05 dB.
+
+Background
+Time started =  0 hour(s),  0 minute(s), 12.25 seconds.
+Time ended =  0 hour(s),  1 minute(s), 8.12 seconds.
+RMS = -53.01 dB.
+
+Results
+Difference = 28.96 RMS dB.
+Success Criteria 1.4.7 of WCAG 2.0: Pass
+
+Data gathered
+21 January 2021 13h 40m 26s
+===================================
+
