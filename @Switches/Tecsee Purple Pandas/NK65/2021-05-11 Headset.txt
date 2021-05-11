@@ -1,0 +1,23 @@
+===================================
+WCAG 2.0 Success Criteria 1.4.7 Contrast Results
+
+Filename = E:\Users\Jim\My Documents\OCC\@Reviews\@Keyboards\@Switches\@Sound Tests\Tecsee Purple Pandas\NK65\2021-05-11\Sound Test - Tecsee Purple Pandas 2021-05-11.aup.
+
+Foreground
+Time started =  0 hour(s),  0 minute(s), 0.00 seconds.
+Time ended =  0 hour(s),  0 minute(s), 25.43 seconds.
+RMS = -19.08 dB.
+
+Background
+Time started =  0 hour(s),  0 minute(s), 25.43 seconds.
+Time ended =  0 hour(s),  2 minute(s), 32.43 seconds.
+RMS = -49.18 dB.
+
+Results
+Difference = 30.10 RMS dB.
+Success Criteria 1.4.7 of WCAG 2.0: Pass
+
+Data gathered
+11 May 2021 14h 24m 14s
+===================================
+
