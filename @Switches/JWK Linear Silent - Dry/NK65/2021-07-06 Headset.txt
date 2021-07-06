@@ -1,0 +1,23 @@
+===================================
+WCAG 2.0 Success Criteria 1.4.7 Contrast Results
+
+Filename = E:\Users\Jim\My Documents\OCC\@Reviews\@Keyboards\@Switches\@Sound Tests\Sound Test - 2021-07-06.aup.
+
+Foreground
+Time started =  0 hour(s),  0 minute(s), 0.00 seconds.
+Time ended =  0 hour(s),  0 minute(s), 15.60 seconds.
+RMS = -15.19 dB.
+
+Background
+Time started =  0 hour(s),  0 minute(s), 15.60 seconds.
+Time ended =  0 hour(s),  2 minute(s), 35.35 seconds.
+RMS = -55.15 dB.
+
+Results
+Difference = 39.97 RMS dB.
+Success Criteria 1.4.7 of WCAG 2.0: Pass
+
+Data gathered
+6 July 2021 09h 49m 25s
+===================================
+

@@ -1,0 +1,9 @@
+mostly tested with the three horizontal arrow keys but also used the Up and Down at the end
+
+First used Fn, Menu, Right Control for dampened, then "," "." and "/" to see a different row.
+For the vertical test I used ";" and "/"
+
+2021-06-06 - Dampened and Not Comparison				original recording
+2021-06-06 - Dampened and Not Comparison - Cleaned		removed my speaking
+2021-06-06 - Not Dampened								just the non-dampened switches
+2021-06-06 - Dampened									just the dampened switches

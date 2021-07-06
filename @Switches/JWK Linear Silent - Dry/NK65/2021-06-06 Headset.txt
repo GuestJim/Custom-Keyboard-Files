@@ -1,0 +1,23 @@
+===================================
+WCAG 2.0 Success Criteria 1.4.7 Contrast Results
+
+Filename = E:\Users\Jim\My Documents\OCC\@Reviews\@Keyboards\@Switches\@Sound Tests\JWK Linear Silent - Dry\NK65\2021-06-06\Sound Test - JWK Silent Linear Dry - 2021-06-06.aup.
+
+Foreground
+Time started =  0 hour(s),  0 minute(s), 0.00 seconds.
+Time ended =  0 hour(s),  0 minute(s), 43.52 seconds.
+RMS = -14.86 dB.
+
+Background
+Time started =  0 hour(s),  0 minute(s), 43.52 seconds.
+Time ended =  0 hour(s),  2 minute(s), 23.17 seconds.
+RMS = -60.80 dB.
+
+Results
+Difference = 45.95 RMS dB.
+Success Criteria 1.4.7 of WCAG 2.0: Pass
+
+Data gathered
+6 June 2021 17h 30m 49s
+===================================
+
