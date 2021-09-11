@@ -1,0 +1,23 @@
+===================================
+WCAG 2.0 Success Criteria 1.4.7 Contrast Results
+
+Filename = E:\Users\Jim\My Documents\OCC\@Reviews\@Keyboards\@Switches\@Sound Tests\JWK Linear Silent - Lubed\NK65\2021-08-18 - Lubed\Sound Test - 2021-08-18.aup.
+
+Foreground
+Time started =  0 hour(s),  0 minute(s), 0.00 seconds.
+Time ended =  0 hour(s),  0 minute(s), 35.00 seconds.
+RMS = -38.16 dB.
+
+Background
+Time started =  0 hour(s),  0 minute(s), 35.00 seconds.
+Time ended =  0 hour(s),  2 minute(s), 45.03 seconds.
+RMS = -63.35 dB.
+
+Results
+Difference = 25.19 RMS dB.
+Success Criteria 1.4.7 of WCAG 2.0: Pass
+
+Data gathered
+19 August 2021 09h 45m 04s
+===================================
+
