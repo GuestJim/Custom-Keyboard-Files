@@ -1,0 +1,23 @@
+===================================
+WCAG 2.0 Success Criteria 1.4.7 Contrast Results
+
+Filename = E:\Users\Jim\My Documents\OCC\@Reviews\@Keyboards\@Keycaps\@Sound Tests\Drop MT3 Skiidata\Boba U4\2021-01-01\Sound Test - 2022-01-01.aup.
+
+Foreground
+Time started =  0 hour(s),  0 minute(s), 0.00 seconds.
+Time ended =  0 hour(s),  0 minute(s), 53.87 seconds.
+RMS = -32.25 dB.
+
+Background
+Time started =  0 hour(s),  0 minute(s), 53.87 seconds.
+Time ended =  0 hour(s),  2 minute(s), 53.67 seconds.
+RMS = -59.54 dB.
+
+Results
+Difference = 27.29 RMS dB.
+Success Criteria 1.4.7 of WCAG 2.0: Pass
+
+Data gathered
+1 January 2022 17h 38m 16s
+===================================
+
