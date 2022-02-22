@@ -1,0 +1,23 @@
+===================================
+WCAG 2.0 Success Criteria 1.4.7 Contrast Results
+
+Filename = E:\Users\Jim\My Documents\OCC\@Reviews\@Keyboards\@Keycaps\@Sound Tests\Drop Skylight\Boba U4\2021-12-30\Sound Test - 2021-12-30.aup.
+
+Foreground
+Time started =  0 hour(s),  0 minute(s), 0.00 seconds.
+Time ended =  0 hour(s),  1 minute(s), 32.99 seconds.
+RMS = -31.98 dB.
+
+Background
+Time started =  0 hour(s),  1 minute(s), 32.99 seconds.
+Time ended =  0 hour(s),  2 minute(s), 54.59 seconds.
+RMS = -57.30 dB.
+
+Results
+Difference = 25.32 RMS dB.
+Success Criteria 1.4.7 of WCAG 2.0: Pass
+
+Data gathered
+30 December 2021 20h 56m 19s
+===================================
+
